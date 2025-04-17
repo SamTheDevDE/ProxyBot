@@ -61,7 +61,7 @@ No, I don't offer tech support.
 
 5. Register slash commands globally (feel the power):
    ```bash
-   node register-commands.js
+   node commands.js
    ```
 
 6. Run the bot:
