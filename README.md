@@ -66,7 +66,7 @@ No, I don't offer tech support.
 
 6. Run the bot:
    ```bash
-   node index.js
+   node app.js
    ```
 
 7. Stare into the void as it logs:
